@@ -1,4 +1,4 @@
-http://image-resizer-buc-ket.s3-website.ap-south-1.amazonaws.com
+
 # 🖼️ Serverless Image Resizer using AWS Lambda & Amazon S3
 
 ## 📌 Project Overview
@@ -383,7 +383,6 @@ Access the S3 Static Website endpoint in your browser.
 ---
 
 # 📸 Sample Output
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eb7b4b4-d644-441a-a0d5-00babd1ff6cb" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2f3c0be7-a720-44b1-93e0-46943285346a" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63490c2d-9a18-4618-a36e-48e23ffab954" />
 
@@ -414,8 +413,3 @@ Access the S3 Static Website endpoint in your browser.
 
 ---
 
-# 👨‍💻 Author
-
-**Serverless Image Resizer**
-
-Developed using **AWS Lambda, Amazon S3, API Gateway, Python, Pillow, HTML, CSS, and JavaScript** to demonstrate a fully serverless image processing application.
